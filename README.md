@@ -30,6 +30,13 @@ We welcome contributions! To contribute to BudgetBuddy, please follow these step
 3. Make your changes and commit them.
 4. Submit a pull request with a description of your changes.
 
+## Troubleshooting
+
+If you encounter issues, consider the following steps:
+1. Application Won't Open: Ensure your system meets the minimum requirements.
+2. Expense Not Saving: Check your internet connection or try restarting the application.
+3. Budget Not Updating: Verify that you have saved changes after editing your budget
+
 ## Contact
 
 For support or inquiries, contact us at yazeed129.129@gmail.com.
