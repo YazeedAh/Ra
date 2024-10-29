@@ -60,3 +60,5 @@ If you encounter issues, consider the following steps:
 
 BudgetBuddy is licensed under the MIT License.
 
+![Screenshot of ClickUp](budget.webp)
+
