@@ -30,6 +30,16 @@ We welcome contributions! To contribute to BudgetBuddy, please follow these step
 3. Make your changes and commit them.
 4. Submit a pull request with a description of your changes.
 
+## User Roles and Permissions
+
+| Role         | Permissions                              | Description                                    |
+|--------------|-----------------------------------------|------------------------------------------------|
+| Admin        | Full access to all project settings      | Can manage all settings and users              |
+| Project Manager | Manage tasks and track progress      | Can assign tasks and set deadlines             |
+| Contributor  | Create and update tasks                 | Can only edit tasks assigned to them           |
+| Viewer       | View project details                    | Read-only access to project information        |
+
+
 ## Troubleshooting
 
 If you encounter issues, consider the following steps:
@@ -37,9 +47,13 @@ If you encounter issues, consider the following steps:
 2. Expense Not Saving: Check your internet connection or try restarting the application.
 3. Budget Not Updating: Verify that you have saved changes after editing your budget
 
-## Contact
+## Support Contact Information
 
-For support or inquiries, contact us at yazeed129.129@gmail.com.
+| Support Type           | Contact                         | Availability        |
+|------------------------|---------------------------------|---------------------|
+| Technical Support      | support@clickup.com             | 24/7               |
+| Sales Inquiries        | sales@clickup.com               | Mon-Fri, 9am-5pm   |
+| General Information    | info@clickup.com                | Mon-Fri, 9am-5pm   |
 
 
 ## License
